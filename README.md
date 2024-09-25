@@ -16,7 +16,7 @@ Welcome to my repository! This portfolio showcases my research, analysis, and co
 
 ### Project 1: [Project #1]
 - **Description**: this is a project
-- **File**: [Download the Presentation](path/to/project1-file)
+- **File**: [Download the Presentation](SWS1.pdf)
 
 ### Project 2: [Project Title]
 - **Description**: Briefly describe the project and its objectives.
