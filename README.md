@@ -17,7 +17,7 @@ This repository showcases my work and contributions as part of the **Smart Women
 These slides document my role as a mentor, where I provided weekly industry updates, macroeconomic policy analysis, and guidance to mentees. The materials include insights into industry trend interpretation and market news across sectors such as healthcare, TMT (Technology, Media, and Telecom), consumer goods, energy, financial institutions (FIG), and REITs (Real Estate Investment Trusts), along with DCF modeling and company analysis.
 
 - [Research Team Slide 1](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/e02a91dc0caf0e7482d63ae747bba945e95e72ca/SWS%20Research%20Team%20Meeting%20.pdf)
-- [Research Team Slide 2](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/e02a91dc0caf0e7482d63ae747bba945e95e72ca/SWS%20Research%20Team%20%20meeting.pdf)
+- [Research Team Slide 2](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/b97054704efcc328180ef2d5fcc899903cdf7c30/SWS%20Research%20Team%20%20meeting.pdf)
 - [Research Team Slide 3](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/e02a91dc0caf0e7482d63ae747bba945e95e72ca/SWS%20Research%20Team%20meeting.pdf)
 - [Research Team Workshop Slide](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/0e2794ffaec61cc850b7be8cf971a378e015f27e/SWS%20Research%20Team%20Workshop.pdf)
 
