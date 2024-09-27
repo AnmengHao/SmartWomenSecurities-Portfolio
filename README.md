@@ -8,6 +8,7 @@ This repository showcases my work and contributions as part of the **Smart Women
 - [Mentorship and Research Team Slides](#mentorship-and-research-team-slides)
 - [Global Macroeconomics Team Meeting Slides](#global-macroeconomics-team-meetings)
 - [Equity Research Reports](#equity-research-reports)
+- [SWS Real Money Portfolio](#sws-real-money-portfolio)
 
 ---
 
