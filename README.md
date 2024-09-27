@@ -28,8 +28,8 @@ These slides document my role as a mentor, where I provided weekly industry upda
 Slides used during Global Macroeconomic Team (GMT) meetings, covering in-depth analysis of global economic trends, market forecasts, central bank policies, fiscal policy updates, and the impact of geopolitical events on international markets and investment strategies.
 
 
-- [Macroeconomics Meeting Slide 1](path/to/macroeconomics-slide1.pdf)
-- [Macroeconomics Meeting Slide 2](path/to/macroeconomics-slide2.pdf)
+- [Macroeconomics Meeting Slide 1](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/b970ed8e9e9cced0212200b11c835d23f71f268f/SWS%20Global%20Macro%20Team%20%20meeting.pdf)
+- [Macroeconomics Meeting Slide 2](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/b970ed8e9e9cced0212200b11c835d23f71f268f/SWS%20Global%20Macro%20Team%20Meeting.pdf)
 
 ---
 
