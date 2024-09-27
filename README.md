@@ -19,7 +19,7 @@ These slides document my role as a mentor, where I provided weekly industry upda
 - [Research Team Slide 1](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/e02a91dc0caf0e7482d63ae747bba945e95e72ca/SWS%20Research%20Team%20Meeting%20.pdf)
 - [Research Team Slide 2](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/e02a91dc0caf0e7482d63ae747bba945e95e72ca/SWS%20Research%20Team%20%20meeting.pdf)
 - [Research Team Slide 3](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/e02a91dc0caf0e7482d63ae747bba945e95e72ca/SWS%20Research%20Team%20meeting.pdf)
-- [Research Team Workshop Slide]([path/to/research-team-slide4.pdf](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/0e2794ffaec61cc850b7be8cf971a378e015f27e/SWS%20Research%20Team%20Workshop.pdf))
+- [Research Team Workshop Slide](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/0e2794ffaec61cc850b7be8cf971a378e015f27e/SWS%20Research%20Team%20Workshop.pdf)
 
 ---
 
