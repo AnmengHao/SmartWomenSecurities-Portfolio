@@ -45,6 +45,14 @@ A series of comprehensive equity research reports on companies such as Organon, 
 
 ---
 
+## SWS Real Money Portfolio
+
+This section highlights the **SWS Real Money Portfolio**, showcasing our club's actual investment decisions and portfolio performance. The portfolio reflects the collective research, analysis, and strategy development by our team.
+
+![SWS Real Money Portfolio](path/to/portfolio.png)
+
+---
+
 ## How to Access
 
 To view any of the files, simply click on the links provided above.
