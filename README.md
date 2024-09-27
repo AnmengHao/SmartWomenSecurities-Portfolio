@@ -16,7 +16,7 @@ This repository showcases my work and contributions as part of the **Smart Women
 
 These slides document my role as a mentor, where I provided weekly industry updates, macroeconomic policy analysis, and guidance to mentees. The materials include insights into industry trend interpretation and market news across sectors such as healthcare, TMT (Technology, Media, and Telecom), consumer goods, energy, financial institutions (FIG), and REITs (Real Estate Investment Trusts), along with DCF modeling and company analysis.
 
-- [Research Team Slide 1]()
+- [Research Team Slide 1](SWS Research Team meeting.pdf)
 - [Research Team Slide 2](path/to/research-team-slide2.pdf)
 - [Research Team Slide 3](path/to/research-team-slide3.pdf)
 - [Research Team Slide 4](path/to/research-team-slide4.pdf)
