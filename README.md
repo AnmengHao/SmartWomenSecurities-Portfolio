@@ -38,12 +38,12 @@ Slides used during Global Macroeconomic Team (GMT) meetings, covering in-depth a
 A series of comprehensive equity research reports on companies such as Organon, Mattel, and Pfizer, featuring DCF models, comparative analyses, and stock pitch that provide in-depth evaluations of each company's financial performance and market positioning.
 
 
-- [Organon & Co.Equity Research Slide](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/SWS%20Organon%20Research.pdf)
-- [Organon & Co.Final Memo](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/SWS%20Organon%20Final%20Memo.pdf)
-- [Organon & Co.DCF Model](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/SWS%20DCF%20Model.xlsx)
-- [Organon & Co.Comparative Analysis](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/SWS%20Comparable%20Company%20Analysis.xlsx)
-- [Mattel, Inc.Equity Research Slide](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/SWS%20Mattel%20Research.pdf)
-- [Pfizer & Co., Inc.ESG Infograph](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/Pfizer%20ESG%20Infograph.pdf)
+- [Organon & Co. Equity Research Slide](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/SWS%20Organon%20Research.pdf)
+- [Organon & Co. Final Memo](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/SWS%20Organon%20Final%20Memo.pdf)
+- [Organon & Co. DCF Model](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/SWS%20DCF%20Model.xlsx)
+- [Organon & Co. Comparative Analysis](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/SWS%20Comparable%20Company%20Analysis.xlsx)
+- [Mattel, Inc. Equity Research Slide](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/SWS%20Mattel%20Research.pdf)
+- [Pfizer & Co., Inc. ESG Infograph](https://github.com/AnmengHao/SmartWomenSecurities-Portfolio/blob/dee41d6243a174ce4fd0d2092e8009662a44bae2/Pfizer%20ESG%20Infograph.pdf)
 
 ---
 
