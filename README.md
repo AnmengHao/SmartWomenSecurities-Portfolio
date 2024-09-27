@@ -1,41 +1,50 @@
-# Smart Women Securities Portfolio
+# Smart Women Securities - Portfolio
 
-Welcome to my repository! This portfolio showcases my research, analysis, and contributions as a Research Analyst for Smart Women Securities at the University of Virginia. Here, you'll find a collection of key projects, resources, and presentations focused on financial literacy, investment strategies, and my personal leadership in finance.
+This repository showcases my work and contributions as part of the **Smart Women Securities (SWS)** club, which I have been actively involved in since my first year of college. The content is categorized based on the various projects and initiatives I have led and participated in during my time with the club, including mentorship program and meeting, equity research projects, and market news interpretations. 
+
+
 
 ## Table of Contents
+- [Mentorship and Research Team Slides](#mentorship-and-research-team-slides)
+- [Global Macroeconomics Team Meeting Slides](#global-macroeconomics-team-meetings)
+- [Equity Research Reports](#equity-research-reports)
 
-- [Key Projects](#key-projects)
-- [Presentations](#presentations)
-- [Resources](#resources)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Contact](#contact)
+---
 
-## Key Projects
+## Mentorship and Research Team Slides
 
-### Project 1: [Project #1]
-- **Description**: this is a project
-- **File**: [Download the Presentation](SWS1.pdf)
+These slides document my role as a mentor, where I provided weekly industry updates, macroeconomic policy analysis, and guidance to mentees. The materials include insights into industry trend interpretation and market news across sectors such as healthcare, TMT (Technology, Media, and Telecom), consumer goods, energy, financial institutions (FIG), and REITs (Real Estate Investment Trusts), along with DCF modeling and company analysis.
 
-### Project 2: [Project Title]
-- **Description**: Briefly describe the project and its objectives.
-- **File**: [Link to project file](path/to/project2-file)
+- [Research Team Slide 1](path/to/research-team-slide1.pdf)
+- [Research Team Slide 2](path/to/research-team-slide2.pdf)
+- [Research Team Slide 3](path/to/research-team-slide3.pdf)
+- [Research Team Slide 4](path/to/research-team-slide4.pdf)
 
-## Presentations
+---
 
-- [My Presentation on Financial Literacy](path/to/financial-literacy-presentation.pptx)
-- [My Report on Investment Strategies](path/to/investment-strategies-report.pdf)
+## Global Macroeconomics Team Meetings
 
-## Resources
+Slides used during Global Macroeconomic Team (GMT) meetings, covering in-depth analysis of global economic trends, market forecasts, central bank policies, fiscal policy updates, and the impact of geopolitical events on international markets and investment strategies.
 
-- Financial literacy guides and tools
-- Investment strategy resources
-- Articles and papers on women's leadership in finance
 
-## Installation
+- [Macroeconomics Meeting Slide 1](path/to/macroeconomics-slide1.pdf)
+- [Macroeconomics Meeting Slide 2](path/to/macroeconomics-slide2.pdf)
 
-Instructions on how to set up any project locally (if applicable). For example:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AnmengHao/SmartWomenSecurities-Portfolio.git
+---
+
+## Equity Research Reports
+
+A series of comprehensive equity research reports on companies such as Organon, Mattel, and Pfizer, featuring DCF models, comparative analyses, and stock pitch that provide in-depth evaluations of each company's financial performance and market positioning.
+
+
+- [Equity Research Slide 1](path/to/equity-research-slide1.pdf)
+- [DCF Model](path/to/dcf-model.pdf)
+- [Equity Research Comparative Analysis](path/to/equity-research-comparative-analysis.pdf)
+- [Final Equity Research Memo](path/to/final-equity-research-memo.pdf)
+- [Equity Research Slide 2](path/to/equity-research-slide2.pdf)
+
+---
+
+## How to Access
+
+To view any of the files, simply click on the links provided above.
